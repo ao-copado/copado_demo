@@ -405,6 +405,16 @@
         <type>Picklist</type>
     </fields>
     <fields>
+        <fullName>PNC_Field__c</fullName>
+        <externalId>false</externalId>
+        <label>PNC Field</label>
+        <length>255</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>ParentId</fullName>
         <trackFeedHistory>false</trackFeedHistory>
         <type>Hierarchy</type>
