@@ -352,7 +352,7 @@
         <fullName>IBM_1__c</fullName>
         <externalId>false</externalId>
         <label>IBM 1</label>
-        <length>255</length>
+        <length>75</length>
         <required>false</required>
         <trackFeedHistory>false</trackFeedHistory>
         <type>Text</type>
