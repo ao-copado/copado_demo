@@ -134,6 +134,16 @@
         <unique>false</unique>
     </fields>
     <fields>
+        <fullName>Baxter_Field__c</fullName>
+        <externalId>false</externalId>
+        <label>Baxter Field</label>
+        <length>255</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>Berner_Group__c</fullName>
         <externalId>false</externalId>
         <label>Berner Group</label>
