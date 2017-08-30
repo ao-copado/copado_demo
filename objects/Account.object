@@ -510,6 +510,16 @@
         <unique>false</unique>
     </fields>
     <fields>
+        <fullName>Salesforce_Kone__c</fullName>
+        <externalId>false</externalId>
+        <label>Salesforce-Kone</label>
+        <length>255</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>Sergey_Demo__c</fullName>
         <externalId>false</externalId>
         <label>Sergey Demo</label>
