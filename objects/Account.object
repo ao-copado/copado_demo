@@ -289,6 +289,16 @@
         <unique>false</unique>
     </fields>
     <fields>
+        <fullName>Global_Fund__c</fullName>
+        <externalId>false</externalId>
+        <label>Global Fund</label>
+        <length>255</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>GraphiteRx_Demo_Field__c</fullName>
         <externalId>false</externalId>
         <label>GraphiteRx Demo Field</label>
