@@ -200,6 +200,16 @@
         <unique>false</unique>
     </fields>
     <fields>
+        <fullName>DFSI__c</fullName>
+        <externalId>false</externalId>
+        <label>DFSI</label>
+        <length>99</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>DandbCompanyId</fullName>
         <trackFeedHistory>false</trackFeedHistory>
         <type>Lookup</type>
