@@ -43,4 +43,16 @@
         <label>Other</label>
         <cssExposed>false</cssExposed>
     </standardValue>
+    <standardValue>
+        <fullName>Training Issue</fullName>
+        <default>false</default>
+        <label>Training Issue</label>
+        <cssExposed>false</cssExposed>
+    </standardValue>
+    <standardValue>
+        <fullName>Out of Copado Scope</fullName>
+        <default>false</default>
+        <label>Out of Copado Scope</label>
+        <cssExposed>false</cssExposed>
+    </standardValue>
 </StandardValueSet>
