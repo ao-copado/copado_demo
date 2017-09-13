@@ -124,6 +124,16 @@
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
     <fields>
+        <fullName>BP_CBM_Testing_Field__c</fullName>
+        <externalId>false</externalId>
+        <label>BP CBM Testing Field</label>
+        <length>96</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>Berner_Group__c</fullName>
         <externalId>false</externalId>
         <label>Berner Group</label>
