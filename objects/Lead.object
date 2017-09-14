@@ -133,7 +133,7 @@
         <fullName>Conflicting_Field__c</fullName>
         <externalId>false</externalId>
         <label>Conflicting Field</label>
-        <length>255</length>
+        <length>100</length>
         <required>false</required>
         <trackFeedHistory>false</trackFeedHistory>
         <type>Text</type>
