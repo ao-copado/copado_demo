@@ -100,38 +100,8 @@
         </valueSet>
     </fields>
     <fields>
-        <fullName>AirBerlin_Text_Field__c</fullName>
-        <externalId>false</externalId>
-        <label>AirBerlin Text Field</label>
-        <length>255</length>
-        <required>false</required>
-        <trackFeedHistory>false</trackFeedHistory>
-        <type>Text</type>
-        <unique>false</unique>
-    </fields>
-    <fields>
-        <fullName>Alm_Brand_Mock_Field__c</fullName>
-        <externalId>false</externalId>
-        <label>Alm Brand Mock Field</label>
-        <length>1</length>
-        <required>false</required>
-        <trackFeedHistory>false</trackFeedHistory>
-        <type>Text</type>
-        <unique>false</unique>
-    </fields>
-    <fields>
         <fullName>AnnualRevenue</fullName>
         <trackFeedHistory>false</trackFeedHistory>
-    </fields>
-    <fields>
-        <fullName>Berner_Group__c</fullName>
-        <externalId>false</externalId>
-        <label>Berner Group</label>
-        <length>255</length>
-        <required>false</required>
-        <trackFeedHistory>false</trackFeedHistory>
-        <type>Text</type>
-        <unique>false</unique>
     </fields>
     <fields>
         <fullName>BillingAddress</fullName>
@@ -140,26 +110,6 @@
     <fields>
         <fullName>CleanStatus</fullName>
         <trackFeedHistory>false</trackFeedHistory>
-    </fields>
-    <fields>
-        <fullName>Cox_Automotive_Demo_Field__c</fullName>
-        <externalId>false</externalId>
-        <label>Cox Automotive Demo Field</label>
-        <length>255</length>
-        <required>false</required>
-        <trackFeedHistory>false</trackFeedHistory>
-        <type>Text</type>
-        <unique>false</unique>
-    </fields>
-    <fields>
-        <fullName>Cristina_Field__c</fullName>
-        <externalId>false</externalId>
-        <label>Cristina Field</label>
-        <length>255</length>
-        <required>false</required>
-        <trackFeedHistory>false</trackFeedHistory>
-        <type>Text</type>
-        <unique>false</unique>
     </fields>
     <fields>
         <fullName>CustomerPriority__c</fullName>
@@ -190,71 +140,9 @@
         </valueSet>
     </fields>
     <fields>
-        <fullName>Cynosure_custom_field__c</fullName>
-        <externalId>false</externalId>
-        <label>Cynosure custom field</label>
-        <length>255</length>
-        <required>false</required>
-        <trackFeedHistory>false</trackFeedHistory>
-        <type>Text</type>
-        <unique>false</unique>
-    </fields>
-    <fields>
         <fullName>DandbCompanyId</fullName>
         <trackFeedHistory>false</trackFeedHistory>
         <type>Lookup</type>
-    </fields>
-    <fields>
-        <fullName>Deloitte_CBM__c</fullName>
-        <externalId>false</externalId>
-        <label>Deloitte CBM</label>
-        <length>255</length>
-        <required>false</required>
-        <trackFeedHistory>false</trackFeedHistory>
-        <type>Text</type>
-        <unique>false</unique>
-    </fields>
-    <fields>
-        <fullName>Deloitte_Text_Field__c</fullName>
-        <externalId>false</externalId>
-        <label>Deloitte Text Field</label>
-        <length>255</length>
-        <required>false</required>
-        <trackFeedHistory>false</trackFeedHistory>
-        <type>Text</type>
-        <unique>false</unique>
-    </fields>
-    <fields>
-        <fullName>Deloitte_US__c</fullName>
-        <externalId>false</externalId>
-        <label>Deloitte US</label>
-        <length>255</length>
-        <required>false</required>
-        <trackFeedHistory>false</trackFeedHistory>
-        <type>Text</type>
-        <unique>false</unique>
-    </fields>
-    <fields>
-        <fullName>Deltek__c</fullName>
-        <description>This is a custom field for the demo</description>
-        <externalId>false</externalId>
-        <inlineHelpText>Help!!</inlineHelpText>
-        <label>Deltek</label>
-        <length>255</length>
-        <required>false</required>
-        <trackFeedHistory>false</trackFeedHistory>
-        <type>Text</type>
-        <unique>false</unique>
-    </fields>
-    <fields>
-        <fullName>Demo_Field__c</fullName>
-        <externalId>false</externalId>
-        <label>Demo Field</label>
-        <length>255</length>
-        <required>false</required>
-        <trackFeedHistory>false</trackFeedHistory>
-        <type>Text</type>
-        <unique>false</unique>
     </fields>
     <fields>
         <fullName>Description</fullName>
@@ -263,16 +151,6 @@
     <fields>
         <fullName>DunsNumber</fullName>
         <trackFeedHistory>false</trackFeedHistory>
-    </fields>
-    <fields>
-        <fullName>Easter_Demo_Field__c</fullName>
-        <externalId>false</externalId>
-        <label>Easter Demo Field</label>
-        <length>255</length>
-        <required>false</required>
-        <trackFeedHistory>false</trackFeedHistory>
-        <type>Text</type>
-        <unique>false</unique>
     </fields>
     <fields>
         <fullName>Fax</fullName>
@@ -289,16 +167,6 @@
         <unique>false</unique>
     </fields>
     <fields>
-        <fullName>GraphiteRx_Demo_Field__c</fullName>
-        <externalId>false</externalId>
-        <label>GraphiteRx Demo Field</label>
-        <length>255</length>
-        <required>false</required>
-        <trackFeedHistory>false</trackFeedHistory>
-        <type>Text</type>
-        <unique>false</unique>
-    </fields>
-    <fields>
         <fullName>Industry</fullName>
         <trackFeedHistory>false</trackFeedHistory>
         <type>Picklist</type>
@@ -306,56 +174,6 @@
     <fields>
         <fullName>Jigsaw</fullName>
         <trackFeedHistory>false</trackFeedHistory>
-    </fields>
-    <fields>
-        <fullName>Key_Bank_Field__c</fullName>
-        <externalId>false</externalId>
-        <label>Key Bank Field</label>
-        <length>255</length>
-        <required>false</required>
-        <trackFeedHistory>false</trackFeedHistory>
-        <type>Text</type>
-        <unique>false</unique>
-    </fields>
-    <fields>
-        <fullName>Metso_CCM_CBM_Demo__c</fullName>
-        <externalId>false</externalId>
-        <label>Metso CCM CBM Demo</label>
-        <length>255</length>
-        <required>false</required>
-        <trackFeedHistory>false</trackFeedHistory>
-        <type>Text</type>
-        <unique>false</unique>
-    </fields>
-    <fields>
-        <fullName>Metso_Demo_Field__c</fullName>
-        <externalId>false</externalId>
-        <label>Metso Demo Field</label>
-        <length>255</length>
-        <required>false</required>
-        <trackFeedHistory>false</trackFeedHistory>
-        <type>Text</type>
-        <unique>false</unique>
-    </fields>
-    <fields>
-        <fullName>Mock_Text__c</fullName>
-        <externalId>false</externalId>
-        <label>Mock Text</label>
-        <length>255</length>
-        <required>false</required>
-        <trackFeedHistory>false</trackFeedHistory>
-        <type>Text</type>
-        <unique>false</unique>
-    </fields>
-    <fields>
-        <fullName>Monster_Field__c</fullName>
-        <externalId>false</externalId>
-        <label>Monster Field</label>
-        <length>255</length>
-        <required>false</required>
-        <trackFeedHistory>false</trackFeedHistory>
-        <type>Text</type>
-        <unique>false</unique>
     </fields>
     <fields>
         <fullName>NaicsCode</fullName>
@@ -370,26 +188,6 @@
         <trackFeedHistory>true</trackFeedHistory>
     </fields>
     <fields>
-        <fullName>New_Custom_Field_PoC__c</fullName>
-        <externalId>false</externalId>
-        <label>New Custom Field PoC</label>
-        <length>255</length>
-        <required>false</required>
-        <trackFeedHistory>false</trackFeedHistory>
-        <type>Text</type>
-        <unique>false</unique>
-    </fields>
-    <fields>
-        <fullName>Newell_Field__c</fullName>
-        <externalId>false</externalId>
-        <label>Newell Field</label>
-        <length>255</length>
-        <required>false</required>
-        <trackFeedHistory>false</trackFeedHistory>
-        <type>Text</type>
-        <unique>false</unique>
-    </fields>
-    <fields>
         <fullName>NumberOfEmployees</fullName>
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
@@ -402,16 +200,6 @@
         <scale>0</scale>
         <trackFeedHistory>false</trackFeedHistory>
         <type>Number</type>
-        <unique>false</unique>
-    </fields>
-    <fields>
-        <fullName>Only_Git__c</fullName>
-        <externalId>false</externalId>
-        <label>Only Git</label>
-        <length>255</length>
-        <required>false</required>
-        <trackFeedHistory>false</trackFeedHistory>
-        <type>Text</type>
         <unique>false</unique>
     </fields>
     <fields>
@@ -432,16 +220,6 @@
     <fields>
         <fullName>Phone</fullName>
         <trackFeedHistory>false</trackFeedHistory>
-    </fields>
-    <fields>
-        <fullName>Preludsys_Demo_Field__c</fullName>
-        <externalId>false</externalId>
-        <label>Preludsys Demo Field</label>
-        <length>255</length>
-        <required>false</required>
-        <trackFeedHistory>false</trackFeedHistory>
-        <type>Text</type>
-        <unique>false</unique>
     </fields>
     <fields>
         <fullName>Rating</fullName>
@@ -500,26 +278,6 @@
         </valueSet>
     </fields>
     <fields>
-        <fullName>Salesforce_Demo_Field__c</fullName>
-        <externalId>false</externalId>
-        <label>Salesforce Demo Field</label>
-        <length>255</length>
-        <required>false</required>
-        <trackFeedHistory>false</trackFeedHistory>
-        <type>Text</type>
-        <unique>false</unique>
-    </fields>
-    <fields>
-        <fullName>Sergey_Demo__c</fullName>
-        <externalId>false</externalId>
-        <label>Sergey Demo</label>
-        <length>255</length>
-        <required>false</required>
-        <trackFeedHistory>false</trackFeedHistory>
-        <type>Text</type>
-        <unique>false</unique>
-    </fields>
-    <fields>
         <fullName>ShippingAddress</fullName>
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
@@ -536,33 +294,12 @@
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
     <fields>
-        <fullName>Sony_Demo_Field__c</fullName>
-        <description>Fake Description</description>
-        <externalId>false</externalId>
-        <label>Sony Demo Field</label>
-        <length>6</length>
-        <required>false</required>
-        <trackFeedHistory>false</trackFeedHistory>
-        <type>Text</type>
-        <unique>false</unique>
-    </fields>
-    <fields>
         <fullName>TickerSymbol</fullName>
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
     <fields>
         <fullName>Tradestyle</fullName>
         <trackFeedHistory>false</trackFeedHistory>
-    </fields>
-    <fields>
-        <fullName>TransAmerica_Custom_Field__c</fullName>
-        <externalId>false</externalId>
-        <label>TransAmerica Custom Field</label>
-        <length>255</length>
-        <required>false</required>
-        <trackFeedHistory>false</trackFeedHistory>
-        <type>Text</type>
-        <unique>false</unique>
     </fields>
     <fields>
         <fullName>Type</fullName>
