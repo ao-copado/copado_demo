@@ -198,8 +198,8 @@
     <fields>
         <fullName>Linde_AG__c</fullName>
         <externalId>false</externalId>
-        <label>Conflict</label>
-        <length>100</length>
+        <label>Linde AG</label>
+        <length>66</length>
         <required>false</required>
         <trackFeedHistory>false</trackFeedHistory>
         <type>Text</type>
