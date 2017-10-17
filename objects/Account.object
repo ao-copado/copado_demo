@@ -236,6 +236,16 @@
         <unique>false</unique>
     </fields>
     <fields>
+        <fullName>Maersk_Field__c</fullName>
+        <externalId>false</externalId>
+        <label>Maersk Field</label>
+        <length>99</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>NSWEC_Field__c</fullName>
         <externalId>false</externalId>
         <label>NSWEC Field</label>
