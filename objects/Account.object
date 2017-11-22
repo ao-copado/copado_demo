@@ -354,10 +354,10 @@
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
     <fields>
-        <fullName>Telstra_Field__c</fullName>
+        <fullName>Telstra__c</fullName>
         <externalId>false</externalId>
-        <label>Telstra Field</label>
-        <length>255</length>
+        <label>Telstra</label>
+        <length>100</length>
         <required>false</required>
         <trackFeedHistory>false</trackFeedHistory>
         <type>Text</type>
