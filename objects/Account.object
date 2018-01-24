@@ -424,6 +424,16 @@
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
     <fields>
+        <fullName>Telstra_Field__c</fullName>
+        <externalId>false</externalId>
+        <label>Telstra Field</label>
+        <length>255</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>Telstra__c</fullName>
         <externalId>false</externalId>
         <label>Telstra</label>
