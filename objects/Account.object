@@ -185,6 +185,16 @@
         <type>Lookup</type>
     </fields>
     <fields>
+        <fullName>DentaQuest_Field__c</fullName>
+        <externalId>false</externalId>
+        <label>DentaQuest Field</label>
+        <length>255</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>Description</fullName>
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
