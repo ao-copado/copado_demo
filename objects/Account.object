@@ -326,6 +326,16 @@
         <unique>false</unique>
     </fields>
     <fields>
+        <fullName>Lend_Lease__c</fullName>
+        <externalId>false</externalId>
+        <label>Lend Lease</label>
+        <length>255</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>Mass_Back_Promote__c</fullName>
         <externalId>false</externalId>
         <label>Mass Back Promote</label>
