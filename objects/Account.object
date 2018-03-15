@@ -206,6 +206,16 @@
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
     <fields>
+        <fullName>LeasePlan_Field__c</fullName>
+        <externalId>false</externalId>
+        <label>LeasePlan Field</label>
+        <length>255</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>NSWEC_Field__c</fullName>
         <externalId>false</externalId>
         <label>NSWEC Field</label>
