@@ -574,6 +574,16 @@
         <type>Picklist</type>
     </fields>
     <fields>
+        <fullName>Unilever_Custom_Field__c</fullName>
+        <externalId>false</externalId>
+        <label>Unilever Custom Field</label>
+        <length>255</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>UpsellOpportunity__c</fullName>
         <externalId>false</externalId>
         <label>Upsell Opportunity</label>
