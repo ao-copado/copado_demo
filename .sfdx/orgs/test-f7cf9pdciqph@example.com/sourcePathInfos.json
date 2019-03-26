@@ -2,14 +2,14 @@
     [
         "/app/dxProject/force-app",
         {
-            "state": "u",
             "sourcePath": "/app/dxProject/force-app",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 4096,
-            "modifiedTime": 1553597994518,
+            "modifiedTime": 1553598551457,
             "changeTime": 1553597994518,
             "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": true
         }
@@ -17,14 +17,14 @@
     [
         "/app/dxProject/force-app/main",
         {
-            "state": "u",
             "sourcePath": "/app/dxProject/force-app/main",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 4096,
-            "modifiedTime": 1553597994518,
+            "modifiedTime": 1553598551457,
             "changeTime": 1553597994518,
             "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -37,24 +37,22 @@
             "isDirectory": true,
             "isMetadataFile": false,
             "size": 4096,
-            "modifiedTime": 1553597994598,
-            "changeTime": 1553597994598,
-            "contentHash": "d1783acf47fcb7ec23f15dbf710dcc85a0c3e0b5",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "modifiedTime": 1553598660919,
+            "changeTime": 1553598660919,
+            "contentHash": "85ae9e27bc661add99cf98348f5ace455185d0b7"
         }
     ],
     [
         "/app/dxProject/force-app/main/default/aura",
         {
-            "state": "u",
             "sourcePath": "/app/dxProject/force-app/main/default/aura",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 4096,
             "modifiedTime": 1553597994518,
             "changeTime": 1553597994518,
             "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -62,14 +60,14 @@
     [
         "/app/dxProject/Credit_Artifact",
         {
-            "state": "u",
             "sourcePath": "/app/dxProject/Credit_Artifact",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 4096,
-            "modifiedTime": 1553597997062,
+            "modifiedTime": 1553598551457,
             "changeTime": 1553597997130,
             "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": true
         }
@@ -77,14 +75,14 @@
     [
         "/app/dxProject/Credit_Artifact/main",
         {
-            "state": "u",
             "sourcePath": "/app/dxProject/Credit_Artifact/main",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 4096,
             "modifiedTime": 1553597997062,
             "changeTime": 1553597997062,
             "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -92,14 +90,14 @@
     [
         "/app/dxProject/Credit_Artifact/main/default",
         {
-            "state": "u",
             "sourcePath": "/app/dxProject/Credit_Artifact/main/default",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 4096,
             "modifiedTime": 1553597997066,
             "changeTime": 1553597997066,
             "contentHash": "4015a9474a8f4a60ac7a46165910ca2c23a9bb72",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -107,14 +105,14 @@
     [
         "/app/dxProject/Credit_Artifact/main/default/layouts",
         {
-            "state": "u",
             "sourcePath": "/app/dxProject/Credit_Artifact/main/default/layouts",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 4096,
             "modifiedTime": 1553597997066,
             "changeTime": 1553597997066,
             "contentHash": "78cec8eb4cf38d99b320f059233facb0408d024e",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -126,25 +124,23 @@
             "sourcePath": "/app/dxProject/Credit_Artifact/main/default/layouts/Credit_Card__c-Credit Card Layout.layout-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
-            "size": 2377,
-            "modifiedTime": 1553597997066,
-            "changeTime": 1553597997066,
-            "contentHash": "dcb8b205cf560f0b422670c58b44226ab22897cf",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "size": 2759,
+            "modifiedTime": 1553598660899,
+            "changeTime": 1553598660899,
+            "contentHash": "31636e92612a1c561d47f2becd83f723f2dc8634"
         }
     ],
     [
         "/app/dxProject/Credit_Artifact/main/default/objects",
         {
-            "state": "u",
             "sourcePath": "/app/dxProject/Credit_Artifact/main/default/objects",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 4096,
             "modifiedTime": 1553597997066,
             "changeTime": 1553597997066,
             "contentHash": "512bdcc134905170435ca1478fd88ee8fe48808a",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -152,14 +148,14 @@
     [
         "/app/dxProject/Credit_Artifact/main/default/objects/Credit_Card__c",
         {
-            "state": "u",
             "sourcePath": "/app/dxProject/Credit_Artifact/main/default/objects/Credit_Card__c",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 4096,
             "modifiedTime": 1553597997066,
             "changeTime": 1553597997066,
             "contentHash": "52dcdd0395c57a48089ecda0fe5f4db716aa5039",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -167,14 +163,14 @@
     [
         "/app/dxProject/Credit_Artifact/main/default/objects/Credit_Card__c/Credit_Card__c.object-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/app/dxProject/Credit_Artifact/main/default/objects/Credit_Card__c/Credit_Card__c.object-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 2186,
             "modifiedTime": 1553597997066,
             "changeTime": 1553597997066,
             "contentHash": "43375c88ae09096b2145fb38938e41f0171bb51d",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -187,24 +183,22 @@
             "isDirectory": true,
             "isMetadataFile": false,
             "size": 4096,
-            "modifiedTime": 1553597997066,
-            "changeTime": 1553597997066,
-            "contentHash": "954dc9e5815892681583a660e15ebddc8e136166",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "modifiedTime": 1553598660891,
+            "changeTime": 1553598660891,
+            "contentHash": "175ca8c9bd08669c55b61faf12a107538924dc07"
         }
     ],
     [
         "/app/dxProject/Credit_Artifact/main/default/objects/Credit_Card__c/fields/Contact__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/app/dxProject/Credit_Artifact/main/default/objects/Credit_Card__c/fields/Contact__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 547,
             "modifiedTime": 1553597997066,
             "changeTime": 1553597997066,
             "contentHash": "3c4270770933569d6309fdd169a5f8d986cf4269",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -216,25 +210,23 @@
             "sourcePath": "/app/dxProject/Credit_Artifact/main/default/objects/Credit_Card__c/fields/Credit_Card_Number__c.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
-            "size": 449,
-            "modifiedTime": 1553597997066,
-            "changeTime": 1553597997066,
-            "contentHash": "201964ba095d246c46303a8084e51bab0e7d54be",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "size": 448,
+            "modifiedTime": 1553598660891,
+            "changeTime": 1553598660891,
+            "contentHash": "2ff71e16c01b6bb58f9baf515c6fd136ed1906f9"
         }
     ],
     [
         "/app/dxProject/Credit_Artifact/main/default/objects/Credit_Card__c/fields/Expiration_Date__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/app/dxProject/Credit_Artifact/main/default/objects/Credit_Card__c/fields/Expiration_Date__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 363,
             "modifiedTime": 1553597997066,
             "changeTime": 1553597997066,
             "contentHash": "65d68f3b241ac2e822ac3967ca8dc39df3226c5e",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -242,16 +234,94 @@
     [
         "/app/dxProject",
         {
-            "state": "u",
             "sourcePath": "/app/dxProject",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 4096,
             "modifiedTime": 1553598000234,
             "changeTime": 1553598000234,
             "contentHash": "2af1753133ccaa77f4eb2db7e477c22bb917fa62",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": true,
             "isArtifactRoot": false
+        }
+    ],
+    [
+        "/app/dxProject/Credit_Artifact/main/default/objects/Credit_Card__c/fields/Requested_Date__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/app/dxProject/Credit_Artifact/main/default/objects/Credit_Card__c/fields/Requested_Date__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 361,
+            "modifiedTime": 1553598660891,
+            "changeTime": 1553598660891,
+            "contentHash": "161ee85a8a6cd4a877120e45557e20afaa663b5e"
+        }
+    ],
+    [
+        "/app/dxProject/force-app/main/default/profiles/Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/app/dxProject/force-app/main/default/profiles/Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 19718,
+            "modifiedTime": 1553598660927,
+            "changeTime": 1553598660927,
+            "contentHash": "3b28ea4aeffaff6be5a5ec7870ea0f2bd33ddf09"
+        }
+    ],
+    [
+        "/app/dxProject/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/app/dxProject/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5576,
+            "modifiedTime": 1553598660935,
+            "changeTime": 1553598660935,
+            "contentHash": "74f7fd8894767b2e7c1c9abc3f5ac36d654c71f7"
+        }
+    ],
+    [
+        "/app/dxProject/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/app/dxProject/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5238,
+            "modifiedTime": 1553598660939,
+            "changeTime": 1553598660939,
+            "contentHash": "1205319e9dcf56e140a7acda8c1860f3f6f2ac99"
+        }
+    ],
+    [
+        "/app/dxProject/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/app/dxProject/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5238,
+            "modifiedTime": 1553598660951,
+            "changeTime": 1553598660951,
+            "contentHash": "1205319e9dcf56e140a7acda8c1860f3f6f2ac99"
+        }
+    ],
+    [
+        "/app/dxProject/force-app/main/default/profiles",
+        {
+            "state": "u",
+            "sourcePath": "/app/dxProject/force-app/main/default/profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1553598660951,
+            "changeTime": 1553598660951,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
         }
     ]
 ]
