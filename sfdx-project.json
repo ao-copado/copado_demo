@@ -1,0 +1,12 @@
+{
+  "namespace" : "",
+  "packageDirectories" : [ {
+    "path" : "force-app",
+    "default" : true
+  }, {
+    "path" : "Credit_Artifact",
+    "default" : false
+  } ],
+  "sourceApiVersion" : "42.0",
+  "sfdcLoginUrl" : "https://login.salesforce.com"
+}
