@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ConnectedApp xmlns="http://soap.sforce.com/2006/04/metadata">
+    <contactEmail>icoppola@copa.do</contactEmail>
+    <label>Copado DX</label>
+    <oauthConfig>
+        <callbackUrl>http://localhost:1717/OauthRedirect</callbackUrl>
+        <certificate>MIIC5jCCAc4CCQDJJt7gyyAkIzANBgkqhkiG9w0BAQsFADA0MQswCQYDVQQGEwJVUzEPMA0GA1UECgwGQ29wYWRvMRQwEgYDVQQDDAt3d3cuY29wYS5kbzAgFw0xOTAzMTUxNTE5MDlaGA8yMTI4MDkxOTE1MTkwOVowNDELMAkGA1UEBhMCVVMxDzANBgNVBAoMBkNvcGFkbzEUMBIGA1UEAwwLd3d3LmNvcGEuZG8wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDds5meISDnQV1jh/oMebPwbSKcpcoHir3cpmaxnbe7Cp1JTbXONiSSyRTvJTArmWfy04g6mAKv3P4p90j1l2aIICIDwtQ3befkNOTRZJNM7i2QVzF4bI4JJDfZoTFIuVGv2EyjXXco0M8g2zPznTXer7of3FM6TyZ/znhNUjYZTbhp83gHHdrycH+m7O7r3+qpyt/jxZq1V1iOOvJMSIarQ5vJRzjRPvJx5UjUH0PiljgMlenoAaLjWdJAB5D2DhZT0x9jQyX6LsYoVxUWEgDaL2FQd5dMtZs6q54dMTI3ZLpAHy/IZvIMA1H3f4zCaUyUE5sL8kjbfQrc2pBJq06nAgMBAAEwDQYJKoZIhvcNAQELBQADggEBAGe48jmcadmYhGzwRCD9WTwuJY+XjqHakp8XeTZ2YWhWXIpmthcNZnHodZFVzROD08OrV2x8u8VUFsZqpy3l0joKQpHRPciEO0LBihkMF12fdLPu/pv3ddO0iBMJIdqhFDgC5nktk4AyNTUk63wdr1wFFCSiLxWAnLT03S68g6ogTkLAnHp5Pl6WGUqmHXnLDfBiOGD9nabPCLHmAQihEjEZZs0DxhOKyma9YzabjNJQFn7NGPl0ct3xY7ahzV0xQ8EtTviqT9cIFOv7EjI4R9UxeFCe+cV3kGQ5tWP5TGnuqmdTFizh6bKVcdPQvLIpZKRxU+Hg9m4aM0N4nVvYGsA=</certificate>
+        <consumerKey>e931a4a4fa36499495f9eb6ac1d20596f4092da26afb42669b989197872b492f</consumerKey>
+        <scopes>Api</scopes>
+        <scopes>Web</scopes>
+        <scopes>RefreshToken</scopes>
+    </oauthConfig>
+</ConnectedApp>
