@@ -87,6 +87,13 @@
         <type>Picklist</type>
     </fields>
     <fields>
+        <fullName>Account_Autonumber__c</fullName>
+        <displayFormat>AA-{00000}</displayFormat>
+        <externalId>false</externalId>
+        <label>Account Autonumber</label>
+        <type>AutoNumber</type>
+    </fields>
+    <fields>
         <fullName>Active__c</fullName>
         <externalId>false</externalId>
         <label>Active</label>
@@ -672,6 +679,15 @@
         <length>155</length>
         <required>false</required>
         <trackFeedHistory>false</trackFeedHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>SAP_Account__c</fullName>
+        <externalId>false</externalId>
+        <formula>HYPERLINK(&apos;https://test.sap.com/&apos; + Id, &apos;https://test.sap.com/&apos; + Id)</formula>
+        <label>SAP Account</label>
+        <required>false</required>
         <type>Text</type>
         <unique>false</unique>
     </fields>

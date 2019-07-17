@@ -80,6 +80,11 @@
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
+        <editable>false</editable>
+        <field>Account.Account_Autonumber__c</field>
+        <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
         <editable>true</editable>
         <field>Account.Active__c</field>
         <readable>true</readable>
@@ -397,6 +402,11 @@
     <fieldPermissions>
         <editable>false</editable>
         <field>Account.Renault_and_Nissan__c</field>
+        <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>Account.SAP_Account__c</field>
         <readable>false</readable>
     </fieldPermissions>
     <fieldPermissions>
