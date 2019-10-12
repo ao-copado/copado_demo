@@ -113,6 +113,11 @@
         <type>Lookup</type>
     </fields>
     <fields>
+        <fullName>PricebookEntryId</fullName>
+        <trackHistory>false</trackHistory>
+        <type>Lookup</type>
+    </fields>
+    <fields>
         <fullName>Product2Id</fullName>
         <type>Lookup</type>
     </fields>
