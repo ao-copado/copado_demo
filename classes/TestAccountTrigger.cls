@@ -1,10 +1,10 @@
 @isTest
 private class TestAccountTrigger {
 	
-	@isTest static void TestDescription() {
+	@isTest static void testDescription() {
  		
         Account acc = new Account();
-        acc.Name = 'Test';
+        acc.Name = 'Some Other Test';
         
         Test.startTest();
         insert acc;

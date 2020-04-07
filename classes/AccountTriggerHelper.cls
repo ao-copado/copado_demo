@@ -1,9 +1,9 @@
 public class AccountTriggerHelper {
 
-    public static void createDescription (List<Account> Lacc) {
+    public static void createDescription (List<Account> lacc) {
         
-        for (Account acc: Lacc) {
-            acc.Description = acc.Name + ' No comment';
+        for (Account acc: lacc) {
+            acc.Description = acc.Name + ' Some automated cool description';
         }
     }
 }
